@@ -44,8 +44,7 @@
   <img width="12" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" height="40" alt="git" />
   <img width="12" />
-</div>![image](https://github.com/user-attachments/assets/b4ecd1cc-8cd1-4f51-951c-700f3c303be4)
-
+</div>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
