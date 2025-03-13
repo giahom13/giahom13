@@ -48,7 +48,7 @@
   <img width="12" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" height="40" alt="git" />
   <img width="12" /> 
-  <img height="80" width="80" src="ibis.jpg" alt="ibis logo" />
+  <img height="32" width="32" src="ibis.jpg" alt="ibis logo" />
 </div>
 
 
