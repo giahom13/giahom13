@@ -47,7 +47,10 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/taipy" height="40" alt="bash" />
   <img width="12" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" height="40" alt="git" />
-  <img width="12" /> </div>
+  <img width="12" /> 
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" height="40" alt="git" />
+  <img width="12" />
+</div>
 
 
 
