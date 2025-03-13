@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">I'm from New Jersey<br><br>- 🔭 I’m working as a student...<br>- 📚 I'm currently learning CIS 460!<br>- ⚡ In my free time I workout!</p>
+<p align="left">Student at <img height="40" src="MU.jpg"/> studying CIS and Business Analytics</p>
+
 
 ###
 
