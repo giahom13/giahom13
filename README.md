@@ -44,6 +44,10 @@
   <img width="12" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" height="40" alt="git" />
   <img width="12" />
+   <img height="32" width="32" src="https://cdn.simpleicons.org/taipy" height="40" alt="bash" />
+  <img width="12" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" height="40" alt="git" />
+  <img width="12" />
 </div>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
@@ -53,14 +57,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
