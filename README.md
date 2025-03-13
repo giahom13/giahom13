@@ -44,17 +44,10 @@
   <img width="12" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" height="40" alt="git" />
   <img width="12" />
-   <img height="32" width="32" src="https://cdn.simpleicons.org/taipy" height="40" alt="bash" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/taipy" height="40" alt="bash" />
   <img width="12" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" height="40" alt="git" />
-  <img width="12" />
-</div>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+  <img width="12" /> </div>
+
 
 
